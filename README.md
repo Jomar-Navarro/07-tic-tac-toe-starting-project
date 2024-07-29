@@ -4,7 +4,7 @@ Tic-Tac-Toe è un gioco classico che si gioca su una griglia 3x3. Questo progett
 
 ## Screenshot
 
-![Screenshot del gioco](public\tic-tac-toe.png)
+![Screenshot del gioco](./img/tic-tac-toe.png)
 
 ## Funzionalità
 
